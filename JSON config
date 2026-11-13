@@ -1,0 +1,16 @@
+{
+    "configVersion": 1,
+    "network": {
+        "defaultAP": {
+            "ssid": "YOUR-NAME-HERE",
+            "password": "xrp-wpilib"
+        },
+        "networkList": [
+            {
+                "ssid": "Verizon_49XHLP",
+                "password": "gym7askew6shoes"
+            }
+        ],
+        "mode": "STA"
+    }
+}
